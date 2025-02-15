@@ -1,2 +1,19 @@
-# Theme for the site
+# General settings
+title: "Wildlife in Pukaskwa National Park"
+
+baseurl: "/Wildlife-in-Pukaskwa-National-Park"
+url: "https://https://bobbivalentine.github.io"
+
+# GitHub Pages settings
 theme: jekyll-theme-cayman
+
+# Build settings
+source: docs        # Source folder is the 'docs' directory
+destination: docs/_site  # Output folder is docs/_site
+
+# Plugins (example)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
