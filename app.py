@@ -1,22 +1,31 @@
 import streamlit as st
+import joblib
+import pandas as pd
 import pickle
 
-# Load your pickle file (ensure this file is uploaded to the same directory or a location accessible by your app)
-def load_pickle():
-    with open('random_forest_model.pkl', 'rb') as f:
-        model = pickle.load(f)
-    return model
+# Assuming rf_classifier is your trained model
+with open('random_forest_model.pkl', 'wb') as model_file:
+    pickle.dump(rf_classifier, model_file)
 
-# Function to interact with the model
-def predict(input_data):
-    model = load_pickle()
-    prediction = model.predict(input_data)  # Replace this with actual prediction code
-    return prediction
+# Streamlit app interface for user inputs
+st.title("Wildlife Species Prediction")
 
-# Streamlit interface
-st.title("Pickle Model Interaction")
-user_input = st.text_input("Enter your input:", "Default input")
+# Input fields for the features
+month = st.number_input("Month", min_value=1, max_value=12, value=9)
+day = st.number_input("Day", min_value=1, max_value=31, value=29)
+hour = st.number_input("Hour", min_value=0, max_value=23, value=12)
+site_name_code = st.number_input("Site Name Code", min_value=0, max_value=100, value=5)
 
+# Prepare the input for the model
+input_data = {
+    'Month': [month],
+    'Day': [day],
+    'Hour': [hour],
+    'Site_Name_codes': [site_name_code]
+}
+input_df = pd.DataFrame(input_data)
+
+# Make a prediction when the button is pressed
 if st.button('Predict'):
-    result = predict(user_input)
-    st.write(f"Prediction: {result}")
+    predicted_species = rf_classifier.predict(input_df)
+    st.write(f"Predicted Species: {predicted_species[0]}")
