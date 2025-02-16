@@ -3,9 +3,8 @@ import joblib
 import pandas as pd
 import pickle
 
-# Assuming rf_classifier is your trained model
-with open('random_forest_model.pkl', 'wb') as model_file:
-    pickle.dump(rf_classifier, model_file)
+# Load the pre-trained RandomForest model
+rf_classifier = joblib.load('random_forest_model.pkl')
 
 # Streamlit app interface for user inputs
 st.title("Wildlife Species Prediction")
