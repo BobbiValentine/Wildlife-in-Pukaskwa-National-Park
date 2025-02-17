@@ -1,3 +1,7 @@
+Welcome!
+
+## Learn About Wildlife Behavior Through Camera Traps
+
 “Each species of animal has an important role in maintaining the Earth’s health and humanity’s ability to thrive.” (Forbes, C.) So how do humans gather valuable information about wildlife? They set up camera traps! These devices capture compelling images that provide essential information about animal behavior, health, and movement.
 
 Camera traps are essential for tracking endangered animals and combating poaching, helping to ensure the survival of vulnerable species. They are also used to confirm the existence of elusive and rare creatures, assess animal health, and observe when animals are most active.
