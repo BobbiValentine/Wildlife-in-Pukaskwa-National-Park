@@ -10,7 +10,7 @@ Lastly, camera traps are used to ensure wildlife can pass safely through man-mad
 
 From 2010 to 2023, Pukaskwa National Park captured 2,126 images of moose, making them the most commonly observed species. Following moose are snowshoe hares, with 1,734 sightings. Beavers, Eastern chipmunks, and Mallard ducks were among the least commonly observed species, each with only 2 sightings.
 
-![Word Cloud](assets/images/wordcloud.png)
+![Word Cloud](wordcloud.png)
 
 Let’s break it down and take a look at the line plot below, which shows the number of species observed each year. At first glance, the graph may seem cluttered and hard to read. But don’t worry—it’s **interactive!** Simply click on the legend to display the species you’re interested in analyzing. By exploring different combinations, you can make various observations. For example, the snowshoe hare had the highest number of sightings in 2020. Commonly observed species each year include black bears, grey wolves, lynx, moose, and snowshoe hares. What observations can you make?
 
@@ -40,7 +40,7 @@ Click the link below to interact with the model:
 
 [Go to Streamlit App](https://wildlife-in-pukaskwa-national-park-kxvbjapttj6u42f372cusb.streamlit.app/)
 
-![Locations](assets/images/Locations.png)
+![Locations](Locations.png)
 
 {% include Locations.html %}
 
@@ -53,7 +53,7 @@ The dataset used for this data story was sourced from the Government of Canada's
 The dataset was cleaned by removing unnecessary rows and columns, converting columns to the appropriate data types, and transforming the Easting and Northing values into Longitude and Latitude. Column names were renamed for clarity, and species and site names were standardized. Additionally, all NaN values and rows with unknown species were removed, as they do not contribute to the story.
 
 
-![Grey Wolves](assets/images/grey_wolves.png)
+![Grey Wolves](grey_wolves.png)
 Dampier Cove November 20, 2019
 
 # References
