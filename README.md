@@ -1,9 +1,4 @@
-title: "Wildlife in Pukaskwa National Park"
----
-
-<head>
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
-</head>
+Wildlife in Pukaskwa National Park
 
 “Each species of animal has an important role in maintaining the Earth’s health and humanity’s ability to thrive.” So how do humans gather valuable information about wildlife? They set up camera traps! These devices capture compelling images that provide essential information about animal behavior, health, and movement.
 
