@@ -41,9 +41,13 @@ Click the link below to interact with the model:
 
 [Go to Streamlit App](https://wildlife-in-pukaskwa-national-park-kxvbjapttj6u42f372cusb.streamlit.app/)
 
-![Locations](Locations.png)
+<p align="center">
+  <img src="Locations.png" width="60%" />
+</p>
 
-{% include Locations.html %}
+<p align="center">
+  <img src="matrix.html" width="60%" />
+</p>
 
 {% include matrix.html %}
 
@@ -54,7 +58,9 @@ The dataset used for this data story was sourced from the Government of Canada's
 The dataset was cleaned by removing unnecessary rows and columns, converting columns to the appropriate data types, and transforming the Easting and Northing values into Longitude and Latitude. Column names were renamed for clarity, and species and site names were standardized. Additionally, all NaN values and rows with unknown species were removed, as they do not contribute to the story.
 
 
-![Grey Wolves](grey_wolves.png)
+<p align="center">
+  <img src="grey_wolves.png" width="60%" />
+</p>
 Dampier Cove November 20, 2019
 
 # References
