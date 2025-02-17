@@ -1,4 +1,4 @@
-----------------------------------------------
+
 ## Learn About Wildlife Behavior Through Camera Traps
 
 “Each species of animal has an important role in maintaining the Earth’s health and humanity’s ability to thrive.” (Forbes, C.) So how do humans gather valuable information about wildlife? They set up camera traps! These devices capture compelling images that provide essential information about animal behavior, health, and movement.
