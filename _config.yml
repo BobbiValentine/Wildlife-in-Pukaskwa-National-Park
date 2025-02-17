@@ -1,8 +1,7 @@
 # General settings
 title: "Wildlife in Pukaskwa National Park"
-
 baseurl: "/Wildlife-in-Pukaskwa-National-Park"
-url: "https://https://bobbivalentine.github.io"
+url: "https://bobbivalentine.github.io"  # Fixed URL
 
 # GitHub Pages settings
 theme: jekyll-theme-cayman
@@ -11,7 +10,7 @@ theme: jekyll-theme-cayman
 source: docs        # Source folder is the 'docs' directory
 destination: docs/_site  # Output folder is docs/_site
 
-# Plugins (example)
+# Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
