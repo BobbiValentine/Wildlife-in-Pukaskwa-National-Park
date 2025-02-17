@@ -9,8 +9,6 @@ Lastly, camera traps are used to ensure wildlife can pass safely through man-mad
 
 From 2010 to 2023, Pukaskwa National Park captured 2,126 images of moose, making them the most commonly observed species. Following moose are snowshoe hares, with 1,734 sightings. Beavers, Eastern chipmunks, and Mallard ducks were among the least commonly observed species, each with only 2 sightings.
 
-![Word Cloud](wordcloud.png)
-
 <p align="center">
   <img src="wordcloud.png" width="60%" />
 </p>
