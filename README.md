@@ -55,9 +55,10 @@ The dataset was cleaned by removing unnecessary rows and columns, converting col
 
 <p align="center">
   <img src="grey_wolves.png" width="60%" />
-  <'Dampier Cove November 20, 2019'>
 </p>
-Dampier Cove November 20, 2019
+<div align="center">
+  Dampier Cove November 20, 2019
+</div>
 
 # References
 
