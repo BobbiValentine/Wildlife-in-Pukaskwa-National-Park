@@ -45,10 +45,6 @@ Click the link below to interact with the model:
   <img src="Locations.png" width="60%" />
 </p>
 
-<p align="center">
-  <img src="matrix.html" width="60%" />
-</p>
-
 {% include matrix.html %}
 
 ## Data Collection and Cleaning
