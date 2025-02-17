@@ -1,4 +1,3 @@
-# Wildlife in Pukaskwa National Park
 
 ## Learn About Wildlife Behavior Through Camera Traps
 
