@@ -1,5 +1,5 @@
 
-“Each species of animal has an important role in maintaining the Earth’s health and humanity’s ability to thrive.” So how do humans gather valuable information about wildlife? They set up camera traps! These devices capture compelling images that provide essential information about animal behavior, health, and movement.
+“Each species of animal has an important role in maintaining the Earth’s health and humanity’s ability to thrive.” (Forbes, C.) So how do humans gather valuable information about wildlife? They set up camera traps! These devices capture compelling images that provide essential information about animal behavior, health, and movement.
 
 Camera traps are essential for tracking endangered animals and combating poaching, helping to ensure the survival of vulnerable species. They are also used to confirm the existence of elusive and rare creatures, assess animal health, and observe when animals are most active.
 
@@ -7,7 +7,8 @@ They also help mitigate animal-vehicle collisions by monitoring frequent animal 
 
 Lastly, camera traps are used to ensure wildlife can pass safely through man-made barriers such as fences. By monitoring these crossings, wildlife conservationists can identify and address potential dangers, such as barbed wire, and design more animal-friendly fences that allow wildlife to pass unharmed while keeping livestock in.
 
-From 2010 to 2023, Pukaskwa National Park captured 2,126 images of moose, making them the most commonly observed species. Following moose are snowshoe hares, with 1,734 sightings. Beavers, Eastern chipmunks, and Mallard ducks were among the least commonly observed species, each with only 2 sightings.
+
+The word cloud below illustrates the frequency of each species, with the size of the word corresponding to the number of sightings. From 2010 to 2023, Pukaskwa National Park captured 2,126 images of moose, making them the most commonly observed species. Following moose are snowshoe hares, with 1,734 sightings. Beavers, Eastern chipmunks, and Mallard ducks were among the least commonly observed species, each with only 2 sightings.
 
 <p align="center">
   <img src="wordcloud.png" width="60%" />
@@ -17,7 +18,7 @@ Let’s break it down and take a look at the line plot below, which shows the nu
 
 {% include Number_of_Species_Detected_per_Year.html %}
 
-In 2010, Otter Island recorded a total of 52 moose sightings. Over the years, there has been a steady decline, with no moose observations on the island since 2021. The highest number of species spotted in a single location in one year occurred at One Lake Island in 2020, with 181 snowshoe hare observations. Raccoons were observed at Shotwatch Cove in both 2018 and 2021. While other species are spotted across various locations, it’s possible that Shotwatch Cove offers the ideal environment for raccoons, making it an especially suitable habitat for them. Which species will you analyze first?
+Let's break it down one more time and examine the number of species detected each year at each location. In 2010, Otter Island recorded a total of 52 moose sightings. Over the years, there has been a steady decline, with no moose observations on the island since 2021. The highest number of species spotted in a single location in one year occurred at One Lake Island in 2020, with 181 snowshoe hare observations. Raccoons were observed at Shotwatch Cove in both 2018 and 2021. While other species are spotted across various locations, it’s possible that Shotwatch Cove offers the ideal environment for raccoons, making it an especially suitable habitat for them. Which species will you analyze first?
 
 {% include Number_of_Species_per_Year.html %}
 
@@ -33,11 +34,9 @@ Species such as avifauna, black bears, caribou, fisher, grey wolves, moose, and 
 
 # What will you see?
 
-Welcome to the Wildlife Species Prediction app for Pukaskwa National Park!
+Thinking about visiting Pukaskwa National Park after learning all about its wildlife? Curious about which species you're most likely to see on your trip?
 
-Thinking about taking a trip to Pukaskawa National Park now that you’ve learned so much about it?
-
-Click the link below to interact with the model:
+Click the link below to find out! Simply enter the month, day, hour, and location of your visit, and the app will predict the species you’re most likely to encounter. Refer to the chart below to determine the location number. Have fun!
 
 [Go to Streamlit App](https://wildlife-in-pukaskwa-national-park-kxvbjapttj6u42f372cusb.streamlit.app/)
 
