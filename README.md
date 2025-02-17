@@ -17,3 +17,7 @@ Welcome to the Wildlife Species Prediction app for Pukaskwa National Park!
 Click the link below to interact with the model:
 
 [Go to Streamlit App](https://wildlife-in-pukaskwa-national-park-kxvbjapttj6u42f372cusb.streamlit.app/)
+
+{% include Locations.html %}
+
+{% include matrix.html %}
