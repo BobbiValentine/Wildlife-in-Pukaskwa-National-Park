@@ -64,9 +64,9 @@ The dataset was cleaned by removing unnecessary rows and columns, converting col
 
 Candid cameras. National Parks Conservation Association. (n.d.). https://www.npca.org/articles/2282-candid-cameras#:~:text=While%20camera%20traps%20can%20be,benefits%20of%20this%20powerful%20tool. 
 
-Forbes, C. (2022, June 23). 4 reasons why animals are important to an ecosystem. Fahlo. https://myfahlo.com/en-ca/blogs/wildlife/four-ways-animals-help-protect-the-ecosystem#:~:text=Through%20their%20roles%20as%20pollinators,for%20food%20production%20and%20biodiversity.
+Forbes, C. (2022, June 23). 4 reasons why animals are important to an ecosystem. Fahlo. https://myfahlo.com/en-ca/blogs/wildlife/four-ways-animals-help-protect-the-ecosystem#:~:text=Through%20their%20roles%20as%20pollinators,for%20food%20production%20and%20biodiversity. 
 
-Log into Facebook. Facebook. (n.d.). https://www.facebook.com/photo.php?fbid=2771506359566889&id=352949078089308&set=a.496974943686720 
+Grey Wolves. (n.d.). Pukaskwa National Park Facebook page. photograph. 
 
 Parks Canada Agency, G. of C. (2022, November 19). Wildlife crossing structures and research. Banff National Park. https://parks.canada.ca/pn-np/ab/banff/nature/conservation/transport/tch-rtc/passages-crossings 
 
