@@ -10,10 +10,10 @@ rf_classifier = joblib.load('random_forest_model.pkl')
 st.title("Wildlife Species Prediction")
 
 # Input fields for the features
-month = st.number_input("Month", min_value=1, max_value=12, value=9)
-day = st.number_input("Day", min_value=1, max_value=31, value=29)
-hour = st.number_input("Hour", min_value=0, max_value=23, value=12)
-site_name_code = st.number_input("Site Name Code", min_value=0, max_value=100, value=5)
+month = st.number_input("Month", min_value=1, max_value=12)
+day = st.number_input("Day", min_value=1, max_value=31)
+hour = st.number_input("Hour", min_value=0, max_value=23)
+site_name_code = st.number_input("Site Name Code", min_value=0, max_value=37)
 
 # Prepare the input for the model
 input_data = {
