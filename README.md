@@ -44,6 +44,7 @@ Click the link below to find out! Simply enter the month, day, hour, and locatio
   <img src="Locations.png" width="60%" />
 </p>
 
+The prediction app was trained using random forest classification and has an accuracy rate of 56.48%. The confusion matrix below compares the predicted values to the actual values. Take a look to see where the model performs well and where it makes incorrect predictions.
 {% include matrix.html %}
 
 ## Data Collection and Cleaning
@@ -52,9 +53,9 @@ The dataset used for this data story was sourced from the Government of Canada's
 
 The dataset was cleaned by removing unnecessary rows and columns, converting columns to the appropriate data types, and transforming the Easting and Northing values into Longitude and Latitude. Column names were renamed for clarity, and species and site names were standardized. Additionally, all NaN values and rows with unknown species were removed, as they do not contribute to the story.
 
-
 <p align="center">
   <img src="grey_wolves.png" width="60%" />
+  <'Dampier Cove November 20, 2019'>
 </p>
 Dampier Cove November 20, 2019
 
