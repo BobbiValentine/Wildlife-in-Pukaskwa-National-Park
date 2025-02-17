@@ -18,6 +18,10 @@ Click the link below to interact with the model:
 
 [Go to Streamlit App](https://wildlife-in-pukaskwa-national-park-kxvbjapttj6u42f372cusb.streamlit.app/)
 
+![Locations](Locations.png)
+
 {% include Locations.html %}
 
 {% include matrix.html %}
+
+![Grey Wolves](grey_wolves.png)
