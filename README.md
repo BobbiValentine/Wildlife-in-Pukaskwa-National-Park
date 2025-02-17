@@ -10,7 +10,7 @@ From 2010 to 2023, Pukaskwa National Park captured 2,126 images of moose, making
 
 ![Word Cloud](wordcloud.png)
 
-Let’s break it down and take a look at the line plot below, which shows the number of species observed each year. At first glance, the graph may seem cluttered and hard to read. But don’t worry—it’s interactive! Simply click on the legend to display the species you’re interested in analyzing. By exploring different combinations, you can make various observations. For example, the snowshoe hare had the highest number of sightings in 2020. Commonly observed species each year include black bears, grey wolves, lynx, moose, and snowshoe hares. What observations can you make?
+Let’s break it down and take a look at the line plot below, which shows the number of species observed each year. At first glance, the graph may seem cluttered and hard to read. But don’t worry—it’s **interactive!** Simply click on the legend to display the species you’re interested in analyzing. By exploring different combinations, you can make various observations. For example, the snowshoe hare had the highest number of sightings in 2020. Commonly observed species each year include black bears, grey wolves, lynx, moose, and snowshoe hares. What observations can you make?
 
 {% include Number_of_Species_Detected_per_Year.html %}
 
@@ -54,11 +54,11 @@ The dataset was cleaned by removing unnecessary rows and columns, converting col
 ![Grey Wolves](grey_wolves.png)
 Dampier Cove November 20, 2019
 
-References
+# References
 
 Candid cameras. National Parks Conservation Association. (n.d.). https://www.npca.org/articles/2282-candid-cameras#:~:text=While%20camera%20traps%20can%20be,benefits%20of%20this%20powerful%20tool. 
 
-Forbes, C. (2022, June 23). 4 reasons why animals are important to an ecosystem. Fahlo. https://myfahlo.com/en-ca/blogs/wildlife/four-ways-animals-help-protect-the-ecosystem#:~:text=Through%20their%20roles%20as%20pollinators,for%20food%20production%20and%20biodiversity. 
+Forbes, C. (2022, June 23). 4 reasons why animals are important to an ecosystem. Fahlo. https://myfahlo.com/en-ca/blogs/wildlife/four-ways-animals-help-protect-the-ecosystem#:~:text=Through%20their%20roles%20as%20pollinators,for%20food%20production%20and%20biodiversity.
 
 Log into Facebook. Facebook. (n.d.). https://www.facebook.com/photo.php?fbid=2771506359566889&id=352949078089308&set=a.496974943686720 
 
@@ -67,4 +67,3 @@ Parks Canada Agency, G. of C. (2022, November 19). Wildlife crossing structures 
 Weatherspark.com. Pukaskwa Climate, Weather By Month, Average Temperature (Ontario, Canada) - Weather Spark. (n.d.). https://weatherspark.com/y/146583/Average-Weather-at-Pukaskwa-Ontario-Canada-Year-Round
 
 Wolf - Pukaskwa - Wolf - Pukaskwa - survey data (Wildlife Camera). Open Government Portal. (n.d.). https://open.canada.ca/data/en/dataset/6c644bdd-aaa2-47c5-991a-f0c42b87bccf/resource/fe52e8cb-2760-4d42-b221-d02d55de57b7
-
