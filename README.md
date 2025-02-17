@@ -1,4 +1,3 @@
-Wildlife in Pukaskwa National Park
 
 “Each species of animal has an important role in maintaining the Earth’s health and humanity’s ability to thrive.” So how do humans gather valuable information about wildlife? They set up camera traps! These devices capture compelling images that provide essential information about animal behavior, health, and movement.
 
@@ -11,6 +10,10 @@ Lastly, camera traps are used to ensure wildlife can pass safely through man-mad
 From 2010 to 2023, Pukaskwa National Park captured 2,126 images of moose, making them the most commonly observed species. Following moose are snowshoe hares, with 1,734 sightings. Beavers, Eastern chipmunks, and Mallard ducks were among the least commonly observed species, each with only 2 sightings.
 
 ![Word Cloud](wordcloud.png)
+
+<p align="center">
+  <img src="wordcloud.png" width="60%" />
+</p>
 
 Let’s break it down and take a look at the line plot below, which shows the number of species observed each year. At first glance, the graph may seem cluttered and hard to read. But don’t worry—it’s **interactive!** Simply click on the legend to display the species you’re interested in analyzing. By exploring different combinations, you can make various observations. For example, the snowshoe hare had the highest number of sightings in 2020. Commonly observed species each year include black bears, grey wolves, lynx, moose, and snowshoe hares. What observations can you make?
 
