@@ -1,3 +1,4 @@
+## Learn About Wildlife Behavior Through Camera Traps
 
 “Each species of animal has an important role in maintaining the Earth’s health and humanity’s ability to thrive.” (Forbes, C.) So how do humans gather valuable information about wildlife? They set up camera traps! These devices capture compelling images that provide essential information about animal behavior, health, and movement.
 
@@ -32,7 +33,7 @@ Species such as avifauna, black bears, caribou, fisher, grey wolves, moose, and 
 
 {% include Number_of_Species_Spotted_in_the_Day_and_Night.html %}
 
-# What will you see?
+## What will you see?
 
 Thinking about visiting Pukaskwa National Park after learning all about its wildlife? Curious about which species you're most likely to see on your trip?
 
@@ -60,7 +61,7 @@ The dataset was cleaned by removing unnecessary rows and columns, converting col
   Dampier Cove November 20, 2019
 </div>
 
-# References
+## References
 
 Candid cameras. National Parks Conservation Association. (n.d.). https://www.npca.org/articles/2282-candid-cameras#:~:text=While%20camera%20traps%20can%20be,benefits%20of%20this%20powerful%20tool. 
 
